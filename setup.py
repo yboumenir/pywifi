@@ -39,9 +39,9 @@ setup(
     packages=find_packages(),
     install_requires=requires,
     python_requires=">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
-    url='https://github.com/awkman/pywifi', 
+    url='https://github.com/yboumenir/pywifi',
     license='MIT',
-    download_url='https://github.com/awkman/pywifi/archive/master.zip', 
+    download_url='https://github.com/yboumenir/pywifi/archive/master.zip',
     classifiers=[
         'Intended Audience :: Developers',
         'Topic :: Utilities',
